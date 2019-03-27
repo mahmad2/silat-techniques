@@ -3,7 +3,15 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  firebaseConfig: {
+    apiKey: "AIzaSyC9xfp-P-OucYdIqfujR1oX6t07nYV-rz8",
+    authDomain: "silat-moves-app.firebaseapp.com",
+    databaseURL: "https://silat-moves-app.firebaseio.com",
+    projectId: "silat-moves-app",
+    storageBucket: "silat-moves-app.appspot.com",
+    messagingSenderId: "971743916728"
+  }
 };
 
 /*
