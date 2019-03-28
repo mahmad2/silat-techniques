@@ -1,18 +1,4 @@
-<!--The content below is only a placeholder and can be replaced.-->
-<div style="text-align:center">
-  <h1>
-    Welcome to Angular Test
-  </h1>
-</div>
 <div class="container">
-  <ul class="list-group">
-    <li class="list-group-item" *ngFor="let moves of filteredList">
-      <div>Technique: {{ moves.technique }} </div>
-      <div>Belt: {{ moves.belt }} </div>
-      <div>Desc: {{ moves.description }} </div>
-      <div>Family: {{ moves.family }} </div>
-      <div>Stripe: {{ moves.stripe }} </div>
-      <img src='{{ image_url }}' alt="..." class="img-thumbnail rounded" width="100">
-    </li>
-  </ul>
+  <router-outlet></router-outlet>
 </div>
+

@@ -3,7 +3,7 @@
      "technique":"Pukulan",
      "description":"Standard Punch",
      "family":"Striking/Punching",
-     "belt":"White",
+     "belt": 0,
      "video":"",
      "stripe":0
   },
@@ -11,7 +11,7 @@
      "technique":"Pukul Depan",
      "description":"Jab Punch",
      "family":"Striking/Punching",
-     "belt":"White",
+     "belt": 0,
      "video":"",
      "stripe":0
   },
@@ -19,7 +19,7 @@
      "technique":"Kuda Tengah",
      "description":"Horse Stance",
      "family":"Stance",
-     "belt":"White",
+     "belt": 0,
      "video":"",
      "stripe":0
   },
@@ -27,7 +27,7 @@
      "technique":"Kuda Depan",
      "description":"Front Stance",
      "family":"Stance",
-     "belt":"White",
+     "belt": 0,
      "video":"https://vimeo.com/326008654",
      "stripe":0
   },
@@ -35,7 +35,7 @@
      "technique":"Tendangan Depan Bawah",
      "description":"Front Kick",
      "family":"Kicking",
-     "belt":"White",
+     "belt": 0,
      "video":"https://vimeo.com/326008355",
      "stripe":0
   },
@@ -43,7 +43,7 @@
      "technique":"Tendangan Depan",
      "description":"Low Front Kick",
      "family":"Kicking",
-     "belt":"White",
+     "belt": 0,
      "video":"https://vimeo.com/326008342",
      "stripe":0
   },
@@ -51,7 +51,7 @@
      "technique":"Tangkisan Luar",
      "description":"Block Out",
      "family":"Blocking/Parrying",
-     "belt":"White",
+     "belt": 0,
      "video":"",
      "stripe":0
   },
@@ -59,7 +59,7 @@
      "technique":"Tangkisan Dalam",
      "description":"Block in",
      "family":"Blocking/Parrying",
-     "belt":"White",
+     "belt": 0,
      "video":"",
      "stripe":0
   },
@@ -67,7 +67,7 @@
      "technique":"Tangkisan Atas",
      "description":"Block Up",
      "family":"Blocking/Parrying",
-     "belt":"White",
+     "belt": 0,
      "video":"",
      "stripe":0
   },
@@ -75,7 +75,7 @@
      "technique":"Pukul Silang",
      "description":"Reverse Punch",
      "family":"Striking/Punching",
-     "belt":"White",
+     "belt": 0,
      "video":"",
      "stripe":1
   },
@@ -83,7 +83,7 @@
      "technique":"Sikap Satria",
      "description":"Warrior Stance",
      "family":"Stance",
-     "belt":"White",
+     "belt": 0,
      "video":"https://vimeo.com/326008632",
      "stripe":1
   },
@@ -91,7 +91,7 @@
     "technique":"Pukul Satria",
     "description":"Backfist a.k.a Pukul Satria",
     "family":"Striking/Punching",
-    "belt":"White",
+    "belt": 0,
     "video":"https://vimeo.com/326008610",
     "stripe":1
  },
@@ -99,7 +99,7 @@
      "technique":"Balik Badan Pukul Satria",
      "description":"Spinning Backfist  ",
      "family":"Striking/Punching",
-     "belt":"White",
+     "belt": 0,
      "video":"https://vimeo.com/326008594",
      "stripe":1
   },
@@ -107,7 +107,7 @@
      "technique":"Tangkisan Bawah",
      "description":"Down",
      "family":"Blocking/Parrying",
-     "belt":"White",
+     "belt": 0,
      "video":"https://vimeo.com/326008677",
      "stripe":1
   },
@@ -115,7 +115,7 @@
      "technique":"Tangkisan Kedalam",
      "description":"Blocking down",
      "family":"Blocking/Parrying",
-     "belt":"White",
+     "belt": 0,
      "video":"https://vimeo.com/326008718",
      "stripe":1
   },
@@ -123,7 +123,7 @@
      "technique":"Langkah Samping",
      "description":"Side step",
      "family":"Footwork",
-     "belt":"White",
+     "belt": 0,
      "video":"https://vimeo.com/326008594",
      "stripe":1
   },
@@ -131,7 +131,7 @@
      "technique":"Langkah Serong",
      "description":"Angled step",
      "family":"Footwork",
-     "belt":"White",
+     "belt": 0,
      "video":"https://vimeo.com/326008594",
      "stripe":1
   },
@@ -139,7 +139,7 @@
      "technique":"Langkah Lutut A",
      "description":"Kneeling step",
      "family":"Footwork",
-     "belt":"White",
+     "belt": 0,
      "video":"https://vimeo.com/326008513",
      "stripe":1
   },
@@ -147,7 +147,7 @@
     "technique":"Langkah Lutut B",
     "description":"Kneeling step",
     "family":"Footwork",
-    "belt":"White",
+    "belt": 0,
     "video":"https://vimeo.com/326008520",
     "stripe":1
   },
@@ -155,7 +155,7 @@
      "technique":"Langkah Lompat",
      "description":"Jump step",
      "family":"Footwork",
-     "belt":"White",
+     "belt": 0,
      "video":"https://vimeo.com/326008513",
      "stripe":2
   },
@@ -163,7 +163,7 @@
      "technique":"Langkah Silang Depan",
      "description":"Cross step forward",
      "family":"Footwork",
-     "belt":"White",
+     "belt": 0,
      "video":"https://vimeo.com/326008498",
      "stripe":2
   },
@@ -171,7 +171,7 @@
      "technique":"Langkah Silang Belakang",
      "description":"Cross step backwards",
      "family":"Footwork",
-     "belt":"White",
+     "belt": 0,
      "video":"https://vimeo.com/326008481",
      "stripe":2
   },
@@ -179,7 +179,7 @@
      "technique":"Langkah Lompat Mundur",
      "description":"Jump step backwards",
      "family":"Footwork",
-     "belt":"White",
+     "belt": 0,
      "video":"https://vimeo.com/326008405",
      "stripe":2
   },
@@ -187,7 +187,7 @@
      "technique":"Langkah Angkat Samping",
      "description":"Lifting the knee sideways",
      "family":"Footwork",
-     "belt":"White",
+     "belt": 0,
      "video":"https://vimeo.com/326008429",
      "stripe":2
   },
@@ -195,7 +195,7 @@
      "technique":"Langkah Angkat Depan",
      "description":"Lifting the knee",
      "family":"Footwork",
-     "belt":"White",
+     "belt": 0,
      "video":"https://vimeo.com/326008465",
      "stripe":2
   },
@@ -203,7 +203,7 @@
      "technique":"Tendangan Sabit Bawah",
      "description":"Low Crescent Kick",
      "family":"Kicking",
-     "belt":"White",
+     "belt": 0,
      "video":"https://vimeo.com/326008298",
      "stripe":3
   },
@@ -211,7 +211,7 @@
      "technique":"Tendangan Sabit",
      "description":"Crescent Kick",
      "family":"Kicking",
-     "belt":"White",
+     "belt": 0,
      "video":"https://vimeo.com/326008326",
      "stripe":3
   },
@@ -219,7 +219,7 @@
      "technique":"Kuda Samping",
      "description":"Side Stance",
      "family":"Stance",
-     "belt":"White",
+     "belt": 0,
      "video":"https://vimeo.com/326008577",
      "stripe":3
   },
@@ -227,7 +227,7 @@
      "technique":"Sikap Pasang Kuda Belakang",
      "description":"Cat Stance",
      "family":"Stance",
-     "belt":"White",
+     "belt": 0,
      "video":"https://vimeo.com/326008393",
      "stripe":3
   },
@@ -235,7 +235,7 @@
      "technique":"Sikap Gedik ",
      "description":"Standard Silat Stance",
      "family":"Stance",
-     "belt":"White",
+     "belt": 0,
      "video":"https://vimeo.com/326008385",
      "stripe":3
   },
@@ -243,7 +243,7 @@
      "technique":"Sikap Gedik Bawah Duduk ",
      "description":"Sitting Stance 1",
      "family":"Stance",
-     "belt":"White",
+     "belt": 0,
      "video":"https://vimeo.com/326008393",
      "stripe":3
   },
@@ -251,7 +251,7 @@
      "technique":"Jurus Tunggal 1",
      "description":"Empty hand One",
      "family":"Jurus",
-     "belt":"White",
+     "belt": 0,
      "video":"",
      "stripe":3
   },
@@ -259,7 +259,7 @@
      "technique":"Jurus Tunggal 2",
      "description":"Empty hand Two",
      "family":"Jurus",
-     "belt":"White",
+     "belt": 0,
      "video":"",
      "stripe":3
   },
@@ -267,7 +267,7 @@
      "technique":"Gejik",
      "description":"Low Sidekick",
      "family":"Kicking",
-     "belt":"Yellow",
+     "belt": 1,
      "video":"https://vimeo.com/326090886",
      "stripe":0
   },
@@ -275,7 +275,7 @@
      "technique":"Tendangan Te (Samping)",
      "description":"Sidekick",
      "family":"Kicking",
-     "belt":"Yellow",
+     "belt": 1,
      "video":"https://vimeo.com/326090865",
      "stripe":0
   },
@@ -283,7 +283,7 @@
      "technique":"Tendangan Kilat T (Samping)",
      "description":"Lighting Sidekick",
      "family":"Kicking",
-     "belt":"Yellow",
+     "belt": 1,
      "video":"https://vimeo.com/326090853",
      "stripe":0
   },
@@ -291,7 +291,7 @@
      "technique":"Tendangan Belakang",
      "description":"Backkick",
      "family":"Kicking",
-     "belt":"Yellow",
+     "belt": 1,
      "video":"https://vimeo.com/326090836",
      "stripe":0
   },
@@ -299,7 +299,7 @@
      "technique":"Loncat Tendangan Depan",
      "description":"Jumping Front Kick",
      "family":"Kicking",
-     "belt":"Yellow",
+     "belt": 1,
      "video":"",
      "stripe":0
   },
@@ -307,7 +307,7 @@
      "technique":"Dobrakan",
      "description":"Push move",
      "family":"Striking/Punching",
-     "belt":"Yellow",
+     "belt": 1,
      "video":"https://vimeo.com/326090811",
      "stripe":0
   },
@@ -315,7 +315,7 @@
      "technique":"Guling",
      "description":"Roll Forwards",
      "family":"Movement",
-     "belt":"Yellow",
+     "belt": 1,
      "video":"https://vimeo.com/326090792",
      "stripe":0
   },
@@ -323,7 +323,7 @@
      "technique":"Guling Mundur",
      "description":"Roll Backwards",
      "family":"Movement",
-     "belt":"Yellow",
+     "belt": 1,
      "video":"https://vimeo.com/326090551",
      "stripe":0
   },
@@ -331,7 +331,7 @@
      "technique":"Tebangan",
      "description":"Chop",
      "family":"Striking/Punching",
-     "belt":"Yellow",
+     "belt": 1,
      "video":"https://vimeo.com/326090551",
      "stripe":1
   },
@@ -339,7 +339,7 @@
      "technique":"Tebasan",
      "description":"Outward strike",
      "family":"Striking/Punching",
-     "belt":"Yellow",
+     "belt": 1,
      "video":"https://vimeo.com/326090454",
      "stripe":1
   },
@@ -347,7 +347,7 @@
      "technique":"Tususkan ",
      "description":"Finger Strike",
      "family":"Striking/Punching",
-     "belt":"Yellow",
+     "belt": 1,
      "video":"https://vimeo.com/326090454",
      "stripe":1
   },
@@ -355,7 +355,7 @@
      "technique":"Colok",
      "description":"Reverse Finger Strike",
      "family":"Striking/Punching",
-     "belt":"Yellow",
+     "belt": 1,
      "video":"https://vimeo.com/326089951",
      "stripe":1
   },
@@ -363,7 +363,7 @@
      "technique":"Pukulan Kuntul",
      "description":"Crane Punch",
      "family":"Striking/Punching",
-     "belt":"Yellow",
+     "belt": 1,
      "video":"https://vimeo.com/326089951",
      "stripe":1
   },
@@ -371,7 +371,7 @@
      "technique":"Sikap Minang",
      "description":"Minang stance",
      "family":"Stance",
-     "belt":"Yellow",
+     "belt": 1,
      "video":"https://vimeo.com/326089924",
      "stripe":1
   },
@@ -379,7 +379,7 @@
      "technique":"Balik Badan Sikap Minang",
      "description":"Minang stance",
      "family":"Stance",
-     "belt":"Yellow",
+     "belt": 1,
      "video":"https://vimeo.com/326089916",
      "stripe":1
   },
@@ -387,7 +387,7 @@
      "technique":"Sikap Minang Dukuk",
      "description":"Sitting Minang Stance",
      "family":"Stance",
-     "belt":"Yellow",
+     "belt": 1,
      "video":"https://vimeo.com/326089894",
      "stripe":1
   },
@@ -395,7 +395,7 @@
      "technique":"Balik Badan Sikap Minang Duduk",
      "description":"Turning Sitting Minang Stance",
      "family":"Stance",
-     "belt":"Yellow",
+     "belt": 1,
      "video":"",
      "stripe":1
   },
@@ -403,7 +403,7 @@
      "technique":"Jurus Tunggal 3",
      "description":"Empty Hand Form",
      "family":"Jurus",
-     "belt":"Yellow",
+     "belt": 1,
      "video":"",
      "stripe":3
   },
@@ -411,7 +411,7 @@
      "technique":"Sikuan Depan",
      "description":"Elbow Inwards",
      "family":"Striking/Punching",
-     "belt":"Yellow",
+     "belt": 1,
      "video":"",
      "stripe":2
   },
@@ -419,7 +419,7 @@
      "technique":"Sikuan Luar",
      "description":"Elbow Outwards",
      "family":"Striking/Punching",
-     "belt":"Yellow",
+     "belt": 1,
      "video":"https://vimeo.com/326089872",
      "stripe":2
   },
@@ -427,7 +427,7 @@
      "technique":"Sikuan Atas",
      "description":"Elbow Upwards",
      "family":"Striking/Punching",
-     "belt":"Yellow",
+     "belt": 1,
      "video":"https://vimeo.com/326089830",
      "stripe":2
   },
@@ -435,7 +435,7 @@
      "technique":"Tabrakan",
      "description":"Crashing Movement",
      "family":"Movement",
-     "belt":"Yellow",
+     "belt": 1,
      "video":"https://vimeo.com/326089816",
      "stripe":2
   },
@@ -443,7 +443,7 @@
      "technique":"Cengkraman 1",
      "description":"Palm Strike",
      "family":"Striking/Punching",
-     "belt":"Yellow",
+     "belt": 1,
      "video":"https://vimeo.com/326089803",
      "stripe":2
   },
@@ -451,7 +451,7 @@
      "technique":"Cengkraman 2",
      "description":"Palm Strike",
      "family":"Striking/Punching",
-     "belt":"Yellow",
+     "belt": 1,
      "video":"https://vimeo.com/326089816",
      "stripe":2
   },
@@ -459,7 +459,7 @@
     "technique":"Cengkraman 3",
     "description":"Palm Strike",
     "family":"Striking/Punching",
-    "belt":"Yellow",
+    "belt": 1,
     "video":"https://vimeo.com/326089791",
     "stripe":2
  },
@@ -467,7 +467,7 @@
      "technique":"Pukulan Punggung",
      "description":"Down backfist",
      "family":"Striking/Punching",
-     "belt":"Yellow",
+     "belt": 1,
      "video":"https://vimeo.com/326089777",
      "stripe":2
   },
@@ -475,7 +475,7 @@
      "technique":"Pukulan Melingkar",
      "description":"Hook punch",
      "family":"Striking/Punching",
-     "belt":"Yellow",
+     "belt": 1,
      "video":"https://vimeo.com/326089763",
      "stripe":2
   },
@@ -483,7 +483,7 @@
      "technique":"Pukulan Sangkol",
      "description":"Uppercut punch",
      "family":"Striking/Punching",
-     "belt":"Yellow",
+     "belt": 1,
      "video":"https://vimeo.com/326089726",
      "stripe":2
   },
@@ -491,7 +491,7 @@
      "technique":"Hempisan",
      "description":"Evasion ",
      "family":"Movement",
-     "belt":"Yellow",
+     "belt": 1,
      "video":"https://vimeo.com/326089708",
      "stripe":3
   },
@@ -499,7 +499,7 @@
      "technique":"Tangkapan Kaki Luar",
      "description":"Catching in",
      "family":"Catching",
-     "belt":"Yellow",
+     "belt": 1,
      "video":"",
      "stripe":3
   },
@@ -507,7 +507,7 @@
      "technique":"Tangkapan Kaki Dalam",
      "description":"Catching Out",
      "family":"Catching",
-     "belt":"Yellow",
+     "belt": 1,
      "video":"https://vimeo.com/326089708",
      "stripe":3
   },
@@ -515,7 +515,7 @@
      "technique":"Jatohan 1 ",
      "description":"Heel to Heel",
      "family":"Takedown",
-     "belt":"Yellow",
+     "belt": 1,
      "video":"https://vimeo.com/326089573",
      "stripe":3
   },
@@ -523,7 +523,7 @@
      "technique":"Tangkisan Tepis",
      "description":"Inward downblock",
      "family":"Blocking/Parrying",
-     "belt":"Yellow",
+     "belt": 1,
      "video":"https://vimeo.com/326089692",
      "stripe":3
   },
@@ -531,7 +531,7 @@
      "technique":"Tusukan Bawah",
      "description":"Piercing block",
      "family":"Blocking/Parrying",
-     "belt":"Yellow",
+     "belt": 1,
      "video":"https://vimeo.com/326089692",
      "stripe":3
   },
@@ -539,7 +539,7 @@
      "technique":"Pisau (knife) striking",
      "description":"Stab, Slash in/out, X cut, Backwards stab, axe stab",
      "family":"Weapon",
-     "belt":"Yellow",
+     "belt": 1,
      "video":"https://vimeo.com/326089692",
      "stripe":3
   },
@@ -547,7 +547,7 @@
      "technique":"Pisau (knife) flipping",
      "description":"Flip knife ",
      "family":"Weapon",
-     "belt":"Yellow",
+     "belt": 1,
      "video":"",
      "stripe":3
   },
@@ -555,7 +555,7 @@
      "technique":"Pisau (knife) defense",
      "description":"Using elakan, tepis, hempisan",
      "family":"Weapon",
-     "belt":"Yellow",
+     "belt": 1,
      "video":"https://vimeo.com/326089630",
      "stripe":3
   },
@@ -563,7 +563,7 @@
      "technique":"Jurus Tunggal 4",
      "description":"Empty Hand Form",
      "family":"Jurus",
-     "belt":"Yellow",
+     "belt": 1,
      "video":"",
      "stripe":3
   },
@@ -571,7 +571,7 @@
      "technique":"Sikap Kucing - buka",
      "description":"Open cat stance",
      "family":"Kucing - cat",
-     "belt":"Green",
+     "belt": 3,
      "video":"https://vimeo.com/326098933",
      "stripe":1
   },
@@ -579,7 +579,7 @@
      "technique":"Sikap Kucing - Tutup",
      "description":"Closed",
      "family":"Kucing - cat",
-     "belt":"Green",
+     "belt": 3,
      "video":"https://vimeo.com/326098989",
      "stripe":1
   },
@@ -587,7 +587,7 @@
      "technique":"Tendangan Jejak / Lurus",
      "description":"Front push kick",
      "family":"Kucing - cat",
-     "belt":"Green",
+     "belt": 3,
      "video":"https://vimeo.com/326098913",
      "stripe":1
   },
@@ -595,7 +595,7 @@
      "technique":"Kucing - Tendangan Depan",
      "description":"Cat Front Kick",
      "family":"Kucing - cat",
-     "belt":"Green",
+     "belt": 3,
      "video":"https://vimeo.com/326098892",
      "stripe":1
   },
@@ -603,7 +603,7 @@
      "technique":"Kucing - Tendangan Sabit",
      "description":"Cat Roundhouse Kick",
      "family":"Kucing - cat",
-     "belt":"Green",
+     "belt": 3,
      "video":"https://vimeo.com/326098875",
      "stripe":1
   },
@@ -611,7 +611,7 @@
      "technique":"Kucing - Tendangan Samping ",
      "description":"Cat Sidekick",
      "family":"Kucing - cat",
-     "belt":"Green",
+     "belt": 3,
      "video":"https://vimeo.com/326098875",
      "stripe":1
   },
@@ -619,7 +619,7 @@
      "technique":"Kucing - Tendangan Belakang ",
      "description":"Cat Back kick",
      "family":"Kucing - cat",
-     "belt":"Green",
+     "belt": 3,
      "video":"",
      "stripe":1
   },
@@ -627,7 +627,7 @@
      "technique":"Sapuan Tegak",
      "description":"Standing Front sweep",
      "family":"Sweeping",
-     "belt":"Green",
+     "belt": 3,
      "video":"https://vimeo.com/326098847",
      "stripe":1
   },
@@ -635,7 +635,7 @@
      "technique":"Beset",
      "description":"Standing back Sweep",
      "family":"Sweeping",
-     "belt":"Green",
+     "belt": 3,
      "video":"",
      "stripe":1
   },
@@ -643,7 +643,7 @@
      "technique":"Bintis",
      "description":"Standing Forward Sweep",
      "family":"Sweeping",
-     "belt":"Green",
+     "belt": 3,
      "video":"",
      "stripe":1
   },
@@ -651,7 +651,7 @@
      "technique":"Tangkis Gunting Atas",
      "description":"Scissors Block Up",
      "family":"Blocking/Parrying",
-     "belt":"Green",
+     "belt": 3,
      "video":"https://vimeo.com/326098809",
      "stripe":2
   },
@@ -659,7 +659,7 @@
      "technique":"Tangkis Gunting Bawah",
      "description":"Scissors Block Down",
      "family":"Blocking/Parrying",
-     "belt":"Green",
+     "belt": 3,
      "video":"https://vimeo.com/326098829",
      "stripe":2
   },
@@ -667,7 +667,7 @@
      "technique":"Langkah Bulan setengah ",
      "description":"Half Moon Langkah",
      "family":"Footwork",
-     "belt":"Green",
+     "belt": 3,
      "video":"https://vimeo.com/326098797",
      "stripe":2
   },
@@ -675,7 +675,7 @@
      "technique":"Pola Langkah",
      "description":"Step Pattern",
      "family":"Footwork",
-     "belt":"Green",
+     "belt": 3,
      "video":"https://vimeo.com/327070472",
      "stripe":2
   },
@@ -683,7 +683,7 @@
      "technique":"Langkah Pisau",
      "description":"Knife step",
      "family":"Footwork",
-     "belt":"Green",
+     "belt": 3,
      "video":"https://vimeo.com/326098782",
      "stripe":2
   },
@@ -691,7 +691,7 @@
      "technique":"Langkah Kotak",
      "description":"Box step",
      "family":"Footwork",
-     "belt":"Green",
+     "belt": 3,
      "video":"https://vimeo.com/326098763",
      "stripe":2
   },
@@ -699,7 +699,7 @@
      "technique":"Sikuan Mutar",
      "description":"Spinning Elbow",
      "family":"",
-     "belt":"Green",
+     "belt": 3,
      "video":"https://vimeo.com/326098763",
      "stripe": 0
   },
@@ -707,7 +707,7 @@
      "technique":"Jontrot",
      "description":"Low Kick",
      "family":"Kicking",
-     "belt":"Green",
+     "belt": 3,
      "video":"https://vimeo.com/327070472",
      "stripe":2
   },
@@ -715,7 +715,7 @@
      "technique":"Egos",
      "description":"Step Kick back",
      "family":"Kicking",
-     "belt":"Green",
+     "belt": 3,
      "video":"https://vimeo.com/326098754",
      "stripe":2
   },
@@ -723,7 +723,7 @@
      "technique":"Jurus Tunggal 5",
      "description":"Empty Hand Form",
      "family":"Jurus",
-     "belt":"Green",
+     "belt": 3,
      "video":"",
      "stripe":2
   },
@@ -731,7 +731,7 @@
      "technique":"Sikap Harimau 1",
      "description":"Tiger Stance 1",
      "family":"Harimau",
-     "belt":"Green",
+     "belt": 3,
      "video":"https://vimeo.com/326098705",
      "stripe":3
   },
@@ -739,7 +739,7 @@
      "technique":"Sikap Harimau 2",
      "description":"Tiger Stance 2",
      "family":"Harimau",
-     "belt":"Green",
+     "belt": 3,
      "video":"https://vimeo.com/326098684",
      "stripe":3
   },
@@ -747,7 +747,7 @@
      "technique":"Sikap Harimau 3",
      "description":"Tiger Stance 3",
      "family":"Harimau",
-     "belt":"Green",
+     "belt": 3,
      "video":"https://vimeo.com/326098668",
      "stripe":3
   },
@@ -755,7 +755,7 @@
      "technique":"Sikap Harimau 4",
      "description":"Tiger Stance 4",
      "family":"Harimau",
-     "belt":"Green",
+     "belt": 3,
      "video":"https://vimeo.com/326098652",
      "stripe":3
   },
@@ -763,7 +763,7 @@
      "technique":"Harimau Melingkar Setengah",
      "description":"Tiger Strike",
      "family":"Harimau",
-     "belt":"Green",
+     "belt": 3,
      "video":"https://vimeo.com/326098624",
      "stripe":3
   },
@@ -771,7 +771,7 @@
      "technique":"Tangkisan Harimau",
      "description":"Tiger Block",
      "family":"Harimau",
-     "belt":"Green",
+     "belt": 3,
      "video":"https://vimeo.com/326098598",
      "stripe":3
   },
@@ -779,7 +779,7 @@
      "technique":"Harimau Shoot 1",
      "description":"Tiger Takedown 1",
      "family":"Harimau",
-     "belt":"Green",
+     "belt": 3,
      "video":"",
      "stripe":3
   },
@@ -787,7 +787,7 @@
      "technique":"Harimau Shoot 2",
      "description":"Tiger Takedown 2",
      "family":"Harimau",
-     "belt":"Green",
+     "belt": 3,
      "video":"",
      "stripe":3
   },
@@ -795,7 +795,7 @@
      "technique":"Tarikan Harimau ",
      "description":"Tiger Takedown 3",
      "family":"Harimau",
-     "belt":"Green",
+     "belt": 3,
      "video":"https://vimeo.com/326098951",
      "stripe":4
   },
@@ -803,7 +803,7 @@
      "technique":"Gejos",
      "description":"Bracing Fall",
      "family":"Movement",
-     "belt":"Green",
+     "belt": 3,
      "video":"https://vimeo.com/326098563",
      "stripe":4
   },
@@ -811,7 +811,7 @@
      "technique":"Figure 4 Takedown",
      "description":"Figure 4 Takedown",
      "family":"Locks / Unlocks",
-     "belt":"Green",
+     "belt": 3,
      "video":"",
      "stripe":4
   },
@@ -819,7 +819,7 @@
      "technique":"Toya striking techniques",
      "description":"Stab, Srike in/out, Axe",
      "family":"Weapon",
-     "belt":"Green",
+     "belt": 3,
      "video":"https://vimeo.com/326098537",
      "stripe":4
   },
@@ -827,7 +827,7 @@
      "technique":"Toya blocking techniques",
      "description":"Out, In, Up, Down, ",
      "family":"Weapon",
-     "belt":"Green",
+     "belt": 3,
      "video":"https://vimeo.com/326098513",
      "stripe":4
   },
@@ -835,7 +835,7 @@
      "technique":"Toya Tricks",
      "description":"Front Spinning (1  hand & 2 hands), Spinning behind back, Throwing, Around Neck,",
      "family":"Weapon",
-     "belt":"Green",
+     "belt": 3,
      "video":"https://vimeo.com/326098462",
      "stripe":4
   },
@@ -843,7 +843,7 @@
      "technique":"Toya stances",
      "description":"Front,  Side, Sitting",
      "family":"Weapon",
-     "belt":"Green",
+     "belt": 3,
      "video":"https://vimeo.com/326098489",
      "stripe":4
   },
@@ -851,7 +851,7 @@
      "technique":"Jurus Tunggal 6",
      "description":"Empty Hand Form",
      "family":"Jurus",
-     "belt":"Green",
+     "belt": 3,
      "video":"",
      "stripe":4
   },
@@ -859,7 +859,7 @@
      "technique":"Jurus Tunggal 7",
      "description":"Empty Hand Form",
      "family":"Jurus",
-     "belt":"Green",
+     "belt": 3,
      "video":"",
      "stripe":4
   },
@@ -867,7 +867,7 @@
      "technique":"Sikap Garuda 1",
      "description":"Eagle stance 1",
      "family":"Garuda",
-     "belt":"Blue",
+     "belt": 4,
      "video":"https://vimeo.com/326107854",
      "stripe":1
   },
@@ -875,7 +875,7 @@
      "technique":"Sikap Garuda 2",
      "description":"Eagle stance 2",
      "family":"Garuda",
-     "belt":"Blue",
+     "belt": 4,
      "video":"https://vimeo.com/326107844",
      "stripe":1
   },
@@ -883,7 +883,7 @@
      "technique":"Sikap Garuda 3",
      "description":"Eagle stance 3",
      "family":"Garuda",
-     "belt":"Blue",
+     "belt": 4,
      "video":"https://vimeo.com/326107831",
      "stripe":1
   },
@@ -891,7 +891,7 @@
      "technique":"Pukulan Garuda 1",
      "description":"Eagle Strike 1",
      "family":"Garuda",
-     "belt":"Blue",
+     "belt": 4,
      "video":"https://vimeo.com/326107817",
      "stripe":1
   },
@@ -899,7 +899,7 @@
      "technique":"Pukulan Garuda 2",
      "description":"Eagle Strike 2",
      "family":"Garuda",
-     "belt":"Blue",
+     "belt": 4,
      "video":"https://vimeo.com/326107817",
      "stripe":1
   },
@@ -907,7 +907,7 @@
      "technique":"Pukulan Garuda 3",
      "description":"Eagle Strike 3",
      "family":"Garuda",
-     "belt":"Blue",
+     "belt": 4,
      "video":"https://vimeo.com/326107784",
      "stripe":1
   },
@@ -915,7 +915,7 @@
      "technique":"Tangkisan Kipas",
      "description":"Blocking with inside of foot",
      "family":"Blocking/Parrying",
-     "belt":"Blue",
+     "belt": 4,
      "video":"https://vimeo.com/326107766",
      "stripe":1
   },
@@ -923,7 +923,7 @@
      "technique":"Tangkisan Kelit",
      "description":"Traping/catching ",
      "family":"Blocking/Parrying",
-     "belt":"Blue",
+     "belt": 4,
      "video":"https://vimeo.com/326107745",
      "stripe":1
   },
@@ -931,7 +931,7 @@
      "technique":"Tendangan Kepret",
      "description":"Groin kick",
      "family":"Kicking",
-     "belt":"Blue",
+     "belt": 4,
      "video":"https://vimeo.com/326107745",
      "stripe":2
   },
@@ -939,7 +939,7 @@
      "technique":"Tendangan Tamparan",
      "description":"Spinning slap kick",
      "family":"Kicking",
-     "belt":"Blue",
+     "belt": 4,
      "video":"https://vimeo.com/326107699",
      "stripe":2
   },
@@ -947,7 +947,7 @@
      "technique":"Loncat Tae Belakang",
      "description":"Flying backkick",
      "family":"Kicking",
-     "belt":"Blue",
+     "belt": 4,
      "video":"",
      "stripe":2
   },
@@ -955,7 +955,7 @@
      "technique":"Tendangan Loncat Tae",
      "description":"Flying Sidekick",
      "family":"Kicking",
-     "belt":"Blue",
+     "belt": 4,
      "video":"https://vimeo.com/326107699",
      "stripe":2
   },
@@ -963,7 +963,7 @@
      "technique":"Hentak Bawah",
      "description":"Stamp kick",
      "family":"Kicking",
-     "belt":"Blue",
+     "belt": 4,
      "video":"https://vimeo.com/326107699",
      "stripe":2
   },
@@ -971,7 +971,7 @@
      "technique":"Tendangan Taji",
      "description":"Heel kick",
      "family":"Kicking",
-     "belt":"Blue",
+     "belt": 4,
      "video":"https://vimeo.com/326107641",
      "stripe":2
   },
@@ -979,7 +979,7 @@
      "technique":"Dengkulan Depan",
      "description":"Front knee",
      "family":"Kneeing",
-     "belt":"Blue",
+     "belt": 4,
      "video":"https://vimeo.com/326107614",
      "stripe":2
   },
@@ -987,7 +987,7 @@
      "technique":"Dengkulan Samping Luar",
      "description":"Knee outwards",
      "family":"Kneeing",
-     "belt":"Blue",
+     "belt": 4,
      "video":"https://vimeo.com/326107563",
      "stripe":2
   },
@@ -995,7 +995,7 @@
      "technique":"Dengkulan Samping Dalam",
      "description":"Knee inwards",
      "family":"Kneeing",
-     "belt":"Blue",
+     "belt": 4,
      "video":"https://vimeo.com/326107581",
      "stripe":2
   },
@@ -1003,7 +1003,7 @@
      "technique":"Loncat Denkulan",
      "description":"Flying knee",
      "family":"Kneeing",
-     "belt":"Blue",
+     "belt": 4,
      "video":"",
      "stripe":2
   },
@@ -1011,7 +1011,7 @@
      "technique":"Jurus Tunggal 8",
      "description":"Golok Form",
      "family":"Jurus",
-     "belt":"Blue",
+     "belt": 4,
      "video":"",
      "stripe":2
   },
@@ -1019,7 +1019,7 @@
      "technique":"Kuda Kuningan",
      "description":"Iron Horse technique",
      "family":"Movement",
-     "belt":"Blue",
+     "belt": 4,
      "video":"",
      "stripe":3
   },
@@ -1027,7 +1027,7 @@
      "technique":"Guntingnan Kaki 1",
      "description":"Regular scissors takedown",
      "family":"Scissors",
-     "belt":"Blue",
+     "belt": 4,
      "video":"",
      "stripe":3
   },
@@ -1035,7 +1035,7 @@
      "technique":"Guntingnan Kaki 2",
      "description":"Front leg scissors",
      "family":"Scissors",
-     "belt":"Blue",
+     "belt": 4,
      "video":"",
      "stripe":3
   },
@@ -1043,7 +1043,7 @@
      "technique":"Buaya Gunting 1",
      "description":"Crocodile sweep 1",
      "family":"Scissors",
-     "belt":"Blue",
+     "belt": 4,
      "video":"",
      "stripe":3
   },
@@ -1051,7 +1051,7 @@
      "technique":"Buaya Gunting 2",
      "description":"Crocodile sweep 2",
      "family":"Scissors",
-     "belt":"Blue",
+     "belt": 4,
      "video":"",
      "stripe":3
   },
@@ -1059,7 +1059,7 @@
      "technique":"Tipuan Putri",
      "description":"Tricky Princess ",
      "family":"Stance",
-     "belt":"Blue",
+     "belt": 4,
      "video":"https://vimeo.com/326107537",
      "stripe":3
   },
@@ -1067,7 +1067,7 @@
      "technique":"Putri Sembayang",
      "description":"Princess Praying",
      "family":"Stance",
-     "belt":"Blue",
+     "belt": 4,
      "video":"https://vimeo.com/326107537",
      "stripe":3
   },
@@ -1075,7 +1075,7 @@
      "technique":"Sikap Buaya",
      "description":"Crocodile Stance",
      "family":"Stance",
-     "belt":"Blue",
+     "belt": 4,
      "video":"https://vimeo.com/326107508",
      "stripe":3
   },
@@ -1083,7 +1083,7 @@
      "technique":"Tandukan",
      "description":"Double Punch",
      "family":"Striking/Punching",
-     "belt":"Blue",
+     "belt": 4,
      "video":"https://vimeo.com/326107477",
      "stripe":3
   },
@@ -1091,7 +1091,7 @@
      "technique":"Jurus Tunggal 9",
      "description":"Golok Form",
      "family":"Jurus",
-     "belt":"Blue",
+     "belt": 4,
      "video":"",
      "stripe":4
   },
@@ -1099,7 +1099,7 @@
      "technique":"Pukulan Tamparan",
      "description":"Slap",
      "family":"Striking/Punching",
-     "belt":"Blue",
+     "belt": 4,
      "video":"",
      "stripe":4
   },
@@ -1107,7 +1107,7 @@
      "technique":"Pukulan Patukan",
      "description":"Pecking",
      "family":"Striking/Punching",
-     "belt":"Blue",
+     "belt": 4,
      "video":"https://vimeo.com/326107448",
      "stripe":4
   },
@@ -1115,7 +1115,7 @@
      "technique":"Sapuan Taji Mutar",
      "description":"Spinning Heel ",
      "family":"Sweeping",
-     "belt":"Blue",
+     "belt": 4,
      "video":"",
      "stripe":4
   },
@@ -1123,7 +1123,7 @@
      "technique":"Sapuan Melingkar Depan",
      "description":"Front spin sweep",
      "family":"Sweeping",
-     "belt":"Blue",
+     "belt": 4,
      "video":"https://vimeo.com/326107362",
      "stripe":4
   },
@@ -1131,7 +1131,7 @@
      "technique":"Golok striking techniques",
      "description":"Stab, Srike in/out, Strike with butt",
      "family":"Weapon",
-     "belt":"Blue",
+     "belt": 4,
      "video":"https://vimeo.com/326107325",
      "stripe":4
   },
@@ -1139,7 +1139,7 @@
      "technique":"Golok fliping",
      "description":"Flip  golok",
      "family":"Weapon",
-     "belt":"Blue",
+     "belt": 4,
      "video":"https://vimeo.com/326107305",
      "stripe":4
   },
@@ -1147,7 +1147,7 @@
      "technique":"Golok blocking techniques",
      "description":"Out, In, Up, Down, ",
      "family":"Weapon",
-     "belt":"Blue",
+     "belt": 4,
      "video":"",
      "stripe":4
   },
@@ -1155,7 +1155,7 @@
      "technique":"Golok stances",
      "description":"From jurus",
      "family":"Weapon",
-     "belt":"Blue",
+     "belt": 4,
      "video":"https://vimeo.com/326107279",
      "stripe":4
   },
@@ -1163,7 +1163,7 @@
      "technique":"Jurus Tunggal 10",
      "description":"Golok Form",
      "family":"Jurus",
-     "belt":"Blue",
+     "belt": 4,
      "video":"",
      "stripe":4
   },
@@ -1171,7 +1171,7 @@
      "technique":"Tendangan Pacul",
      "description":"Axe Kick",
      "family":"Kicking",
-     "belt":"Purple",
+     "belt": 5,
      "video":"",
      "stripe":1
   },
@@ -1179,7 +1179,7 @@
      "technique":"Tendangan Kuda",
      "description":"Donkey Kick",
      "family":"Kicking",
-     "belt":"Purple",
+     "belt": 5,
      "video":"",
      "stripe":1
   },
@@ -1187,7 +1187,7 @@
      "technique":"Tendangan Baling",
      "description":"Hook kick",
      "family":"Kicking",
-     "belt":"Purple",
+     "belt": 5,
      "video":"",
      "stripe":1
   },
@@ -1195,7 +1195,7 @@
      "technique":"Tendangan Baling Setengah",
      "description":"Spinning hook kick",
      "family":"Kicking",
-     "belt":"Purple",
+     "belt": 5,
      "video":"",
      "stripe":1
   },
@@ -1203,7 +1203,7 @@
      "technique":"Tendangan Teratai",
      "description":"Lotus Kick",
      "family":"Kicking",
-     "belt":"Purple",
+     "belt": 5,
      "video":"",
      "stripe":1
   },
@@ -1211,7 +1211,7 @@
      "technique":"Tendangan Teratai Mutar",
      "description":"Lotus Kick",
      "family":"Kicking",
-     "belt":"Purple",
+     "belt": 5,
      "video":"",
      "stripe":1
   },
@@ -1219,7 +1219,7 @@
      "technique":"Tendangan Loncat Baling",
      "description":"Jumping spinning hook kick",
      "family":"Kicking",
-     "belt":"Purple",
+     "belt": 5,
      "video":"",
      "stripe":1
   },
@@ -1227,7 +1227,7 @@
      "technique":"Tangkisan Gedik",
      "description":"Hard inward block",
      "family":"Blocking/Parrying",
-     "belt":"Purple",
+     "belt": 5,
      "video":"",
      "stripe":1
   },
@@ -1235,7 +1235,7 @@
      "technique":"Jurus Tunggal 11",
      "description":"Toya Form",
      "family":"Jurus",
-     "belt":"Purple",
+     "belt": 5,
      "video":"",
      "stripe":1
   },
@@ -1251,7 +1251,7 @@
      "technique":"Jatohan 2",
      "description":"Nike Swoosh",
      "family":"Takedown",
-     "belt":"Purple",
+     "belt": 5,
      "video":"",
      "stripe":2
   },
@@ -1259,7 +1259,7 @@
      "technique":"Jatohan 3",
      "description":"The Clip",
      "family":"Takedown",
-     "belt":"Purple",
+     "belt": 5,
      "video":"",
      "stripe":2
   },
@@ -1267,7 +1267,7 @@
      "technique":"Tendangan Taji",
      "description":"Spur kick",
      "family":"Kicking",
-     "belt":"Purple",
+     "belt": 5,
      "video":"",
      "stripe":2
   },
@@ -1275,7 +1275,7 @@
      "technique":"Jatohan 4",
      "description":"The Tango",
      "family":"Takedown",
-     "belt":"Purple",
+     "belt": 5,
      "video":"",
      "stripe":2
   },
@@ -1283,7 +1283,7 @@
      "technique":"Jatohan 5",
      "description":"Raising Flag",
      "family":"Takedown",
-     "belt":"Purple",
+     "belt": 5,
      "video":"",
      "stripe":2
   },
@@ -1291,7 +1291,7 @@
      "technique":"Jatohan 6",
      "description":"The Tango with footsweep",
      "family":"Takedown",
-     "belt":"Purple",
+     "belt": 5,
      "video":"",
      "stripe":2
   },
@@ -1299,7 +1299,7 @@
      "technique":"Jatohan 7",
      "description":"The shovel ",
      "family":"Takedown",
-     "belt":"Purple",
+     "belt": 5,
      "video":"",
      "stripe":2
   },
@@ -1307,7 +1307,7 @@
      "technique":"Tangkapan Tangan Dalam",
      "description":"Catching hand 1",
      "family":"Catching",
-     "belt":"Purple",
+     "belt": 5,
      "video":"",
      "stripe":2
   },
@@ -1315,7 +1315,7 @@
      "technique":"Tangkapan Tangan Luar",
      "description":"Catching hand 2",
      "family":"Catching",
-     "belt":"Purple",
+     "belt": 5,
      "video":"",
      "stripe":2
   },
@@ -1323,7 +1323,7 @@
      "technique":"Jurus Tunggal 12",
      "description":"Toya Form",
      "family":"Jurus",
-     "belt":"Purple",
+     "belt": 5,
      "video":"",
      "stripe":2
   },
@@ -1331,7 +1331,7 @@
      "technique":"Sikap Duduk",
      "description":"Sitting Stance",
      "family":"Stance",
-     "belt":"Purple",
+     "belt": 5,
      "video":"",
      "stripe":3
   },
@@ -1339,7 +1339,7 @@
      "technique":"Sikap Kura-Kura",
      "description":"Tortoise Stance",
      "family":"Kura-Kura",
-     "belt":"Purple",
+     "belt": 5,
      "video":"",
      "stripe":3
   },
@@ -1347,7 +1347,7 @@
      "technique":"Tendangan Kura-Kura",
      "description":"Tortoise Kick",
      "family":"Kura-Kura",
-     "belt":"Purple",
+     "belt": 5,
      "video":"",
      "stripe":3
   },
@@ -1355,7 +1355,7 @@
      "technique":"Jatohan  Kura-Kura 1",
      "description":"Tortoise Takedown 1",
      "family":"Kura-Kura",
-     "belt":"Purple",
+     "belt": 5,
      "video":"",
      "stripe":3
   },
@@ -1363,7 +1363,7 @@
      "technique":"Tangkisan Luar Kura-Kura",
      "description":"Tortoise Block Out",
      "family":"Kura-Kura",
-     "belt":"Purple",
+     "belt": 5,
      "video":"",
      "stripe":3
   },
@@ -1371,7 +1371,7 @@
      "technique":"Tangkisan Dalam Kura-Kura",
      "description":"Tortoise Block In",
      "family":"Kura-Kura",
-     "belt":"Purple",
+     "belt": 5,
      "video":"",
      "stripe":3
   },
@@ -1379,7 +1379,7 @@
      "technique":"Jatohan Kura-Kura 2",
      "description":"Tortoise Takedown 2",
      "family":"Kura-Kura",
-     "belt":"Purple",
+     "belt": 5,
      "video":"",
      "stripe":3
   },
@@ -1387,7 +1387,7 @@
      "technique":"Sapuan Rebah 360",
      "description":"360 drop sweep",
      "family":"Sweeping",
-     "belt":"Purple",
+     "belt": 5,
      "video":"",
      "stripe":3
   },
@@ -1395,7 +1395,7 @@
      "technique":"Tangkis luar dan pukul",
      "description":"Simultaneous Up Out and Punch",
      "family":"technique",
-     "belt":"Purple",
+     "belt": 5,
      "video":"",
      "stripe":3
   },
@@ -1403,7 +1403,7 @@
      "technique":"Tangkis atas  dan pukul",
      "description":"Simultaneous Block Out and Punch",
      "family":"technique",
-     "belt":"Purple",
+     "belt": 5,
      "video":"",
      "stripe":3
   },
@@ -1411,7 +1411,7 @@
      "technique":"Jurus Tunggal 13",
      "description":"Toya Form",
      "family":"Jurus",
-     "belt":"Purple",
+     "belt": 5,
      "video":"",
      "stripe":3
   },
@@ -1419,7 +1419,7 @@
      "technique":"Sikap Ular",
      "description":"BJJ Guard",
      "family":"Ular",
-     "belt":"Purple",
+     "belt": 5,
      "video":"",
      "stripe":4
   },
@@ -1427,7 +1427,7 @@
      "technique":"Ular Sapuan 1",
      "description":"BJJ  Sweep",
      "family":"Ular",
-     "belt":"Purple",
+     "belt": 5,
      "video":"",
      "stripe":4
   },
@@ -1435,7 +1435,7 @@
      "technique":"Ular Kunci 1",
      "description":"BJJ  Triangle",
      "family":"Ular",
-     "belt":"Purple",
+     "belt": 5,
      "video":"",
      "stripe":4
   },
@@ -1443,7 +1443,7 @@
      "technique":"Ular Kunci 2",
      "description":"Rear Naked Choke",
      "family":"Ular",
-     "belt":"Purple",
+     "belt": 5,
      "video":"",
      "stripe":4
   },
@@ -1451,7 +1451,7 @@
      "technique":"Ular Kunci 3",
      "description":"Leg lock",
      "family":"Ular",
-     "belt":"Purple",
+     "belt": 5,
      "video":"",
      "stripe":4
   },
@@ -1459,7 +1459,7 @@
      "technique":"Cilurit blocking techniques",
      "description":"Out, In, Up, Down, ",
      "family":"Weapon",
-     "belt":"Purple",
+     "belt": 5,
      "video":"",
      "stripe":4
   },
@@ -1467,7 +1467,7 @@
      "technique":"Cilurit Flipping techniques:",
      "description":"Flipping the Celurit",
      "family":"Weapon",
-     "belt":"Purple",
+     "belt": 5,
      "video":"",
      "stripe":4
   },
@@ -1475,7 +1475,7 @@
      "technique":"Cilurit striking techniques",
      "description":"Cilurit striking techniques",
      "family":"Weapon",
-     "belt":"Purple",
+     "belt": 5,
      "video":"",
      "stripe":4
   },
@@ -1483,7 +1483,7 @@
      "technique":"Cilurit handling techniques",
      "description":"Cilurit handling techniques",
      "family":"Weapon",
-     "belt":"Purple",
+     "belt": 5,
      "video":"",
      "stripe":4
   },
@@ -1491,7 +1491,7 @@
      "technique":"Jurus Tunggal 14",
      "description":"Toya Form",
      "family":"Jurus",
-     "belt":"Purple",
+     "belt": 5,
      "video":"",
      "stripe":4
   },
@@ -1499,7 +1499,7 @@
      "technique":"Teaching in class",
      "description":"Instructing / Teaching",
      "family":"Teaching",
-     "belt":"Brown",
+     "belt": 6,
      "video":"",
      "stripe":1
   },
@@ -1507,7 +1507,7 @@
      "technique":"Teknik Kunci A (1-10)",
      "description":"Sikap Pasang A",
      "family":"Locks / Unlocks",
-     "belt":"Brown",
+     "belt": 6,
      "video":"",
      "stripe":1
   },
@@ -1515,7 +1515,7 @@
      "technique":"Teknik Kunci B (1-10)",
      "description":"Sikap Pasang A",
      "family":"Locks / Unlocks",
-     "belt":"Brown",
+     "belt": 6,
      "video":"",
      "stripe":1
   },
@@ -1523,7 +1523,7 @@
      "technique":"Teknik Kunci C (1-10)",
      "description":"Teknik Kunci C (1-10)",
      "family":"Locks / Unlocks",
-     "belt":"Brown",
+     "belt": 6,
      "video":"",
      "stripe":1
   },
@@ -1531,7 +1531,7 @@
      "technique":"Teknik Buka Kunci  A (1-3)",
      "description":"Teknik Buka Kunci  A (1-3)",
      "family":"Locks / Unlocks",
-     "belt":"Brown",
+     "belt": 6,
      "video":"",
      "stripe":2
   },
@@ -1539,7 +1539,7 @@
      "technique":"Teknik Buka Kunci  B (1-3)",
      "description":"Teknik Buka Kunci  B (1-3)",
      "family":"Locks / Unlocks",
-     "belt":"Brown",
+     "belt": 6,
      "video":"",
      "stripe":2
   },
@@ -1547,7 +1547,7 @@
      "technique":"Kerambit techniques",
      "description":"Stab, Slash in/out, X cut, Backwards stab, axe stab",
      "family":"Weapon",
-     "belt":"Brown",
+     "belt": 6,
      "video":"",
      "stripe":2
   },
@@ -1555,7 +1555,7 @@
      "technique":"Kerambit movement",
      "description":"Body mechanics with Kerambit",
      "family":"Weapon",
-     "belt":"Brown",
+     "belt": 6,
      "video":"",
      "stripe":3
   },
@@ -1563,7 +1563,7 @@
      "technique":"New Weapon (Trisula, Kris, double Golok, etc)",
      "description":"Choose any new weapon",
      "family":"Weapon",
-     "belt":"Brown",
+     "belt": 6,
      "video":"",
      "stripe":3
   },
@@ -1571,7 +1571,7 @@
      "technique":"Jurus Regu",
      "description":"Required 1 & 2 - 6-12 Optional",
      "family":"Jurus",
-     "belt":"Brown",
+     "belt": 6,
      "video":"",
      "stripe":3
   },
@@ -1579,7 +1579,7 @@
      "technique":"Intro to Tenaga Dalam",
      "description":"Inner Power / Breathing",
      "family":"Gokang",
-     "belt":"Brown",
+     "belt": 6,
      "video":"",
      "stripe":3
   },
@@ -1587,7 +1587,7 @@
      "technique":"Teknik Sarong 1",
      "description":"Sarong technique",
      "family":"Sarong",
-     "belt":"Brown",
+     "belt": 6,
      "video":"",
      "stripe":4
   },
@@ -1595,7 +1595,7 @@
      "technique":"Teknik Sarong 2",
      "description":"Sarong technique",
      "family":"Sarong",
-     "belt":"Brown",
+     "belt": 6,
      "video":"",
      "stripe":4
   },
@@ -1603,7 +1603,7 @@
      "technique":"Teknik Sarong 3",
      "description":"Sarong technique",
      "family":"Sarong",
-     "belt":"Brown",
+     "belt": 6,
      "video":"",
      "stripe":4
   },
@@ -1611,7 +1611,7 @@
      "technique":"Ganda set (20 techniques) ",
      "description":"Ganda (Skit)",
      "family":"Ganda",
-     "belt":"Brown",
+     "belt": 6,
      "video":"",
      "stripe":4
   }

@@ -1,0 +1,12 @@
+<div class="container">
+  <ul class="list-group">
+    <li class="list-group-item" *ngFor="let moves of filteredList">
+      <div>Technique: {{ moves.technique }} </div>
+      <div>Belt: {{ moves.belt }} </div>
+      <div>Desc: {{ moves.description }} </div>
+      <div>Family: {{ moves.family }} </div>
+      <div>Stripe: {{ moves.stripe }} </div>
+      <img src='{{ image_url }}' alt="..." class="img-thumbnail rounded" width="100">
+    </li>
+  </ul>
+</div>
